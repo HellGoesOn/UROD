@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/DayOrk/source/repos/UROD/UROD/Content/../../../../../Desktop/Cursors.png</File>
+    <File>C:/Users/DayOrk/source/repos/UROD/UROD/Content/DefaultFont.spritefont</File>
+    <File>C:/Users/DayOrk/source/repos/UROD/UROD/Content/MagicPixel2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Cursors.png</File>
+    <File xsi:nil="true" />
+    <File>MagicPixel.png</File>
+  </DestFiles>
+</SourceFileCollection>
